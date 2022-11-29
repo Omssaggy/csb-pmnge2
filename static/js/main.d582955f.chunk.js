@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{12:function(e,c,t){},4:function(e,c,t){"use strict";t.r(c);t(1);var n=t(3),s=t.n(n),i=(t(12),t(0));s.a.render(Object(i.jsxs)("div",{children:[Object(i.jsx)("h1",{className:"head",contentEditable:"true",spellCheck:"true",children:"My Favorite Food"}),Object(i.jsxs)("ul",{children:[Object(i.jsx)("li",{children:"Bacone"}),Object(i.jsx)("li",{children:"Jamon"}),Object(i.jsx)("li",{children:"Noodels"})]})]}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.d582955f.chunk.js.map

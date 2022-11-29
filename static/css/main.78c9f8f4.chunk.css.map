@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,MACE,qBACF,CACA,GACE,aACF,CACA,GACE,UACF","file":"main.78c9f8f4.chunk.css","sourcesContent":[".head {\n  background-color: #ff6;\n}\nh1 {\n  color: rgb(230, 51, 6);\n}\nul {\n  color: blue;\n}\n"]}
